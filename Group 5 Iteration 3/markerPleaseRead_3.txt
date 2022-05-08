@@ -1,0 +1,17 @@
+Hello!
+
+Some important updates from the previous iteration:
+1) A new Board class has been introduced -deals with everything to do with player boards
+2) A domino class has been introduced - deals with Domino objects
+3) A game class has been introduced - conducts the game 
+4) The placement of a 2*1 domino on a board that contains 1*1 individual grids has been implemented by allowing the user to place each side of the domino at 1 time. We do ensure both tiles are adjacent so overall once placed they will appear and act as required. 
+This also allows an easy way for domino rotation
+5) Using a 9*9 grid allows the user to create their 5*5 kingdom in any orientation. This is why we place the starting tile at the centre of the grid before hand, the user can then orient their kingdom in any way they wish. If we would allow the user to place their starting tile, they could place it anywhere and that would make it very ambigious to handle. 
+6) Placing a tile, as of now, as only been implemented for the first tile placement. For the other players (i.e. taking a turn) will be implement in the later iteration
+7) This time we tested the images and they do run in the runnable jar file. please let us know if they dont 
+8) During the game play, please select a color during the set-up, it enhances the overall gameplay. (a solution to this is almost in place, but will be implemented in next iteration)
+9) As mentioned in the game rules, the tile at the top most of the stack is to one to remove. Hence after all tiles are chosen, the top most must be clicked to be placed!
+
+For the use case and SD Choose starting tile 
+Here we talk about choosing the starting tile i.e. the centremost tile and then placing it. The implementation does not exactly match the use case due to above mentioned reason on 5. The underlying principles of the game are withheld. 
+Thank you!
