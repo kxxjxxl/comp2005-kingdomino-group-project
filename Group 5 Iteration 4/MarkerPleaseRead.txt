@@ -1,0 +1,10 @@
+Hello there!
+1) For color, there is always text which assists incase the color is not suitable 
+2) As mentioned in the video, please click the top most tile to press it 
+
+This time I have made sure that the images are loading and made a few changes. I also ran it on my roommates PC and it ran perfectly well. 
+The IDE where I built the game is Eclipse. As can also be seen in the video, every functionality is working as desired. I have individually spent 60+ hours on this game so PLEASE let me know if something is misbehaving as that could be due to other reasons not under my control such as different OS, versions and so on. 
+
+I will also be uploading a second video to prove that the files run when I run them on my laptop. 
+
+Thank you for the constructive feedback throughout the course :)
