@@ -1,0 +1,3 @@
+-> The functionality for contrast is mainly based on the tiles aka dominos. Hence for now, it is just a dummy button to show the functionality will be implemented, as tiles will be implemented in later iterations
+
+-> The game has several images and has been uploaded as a runnable JAR to be best of our knowledge, however, sometimes the images dont load when run on seperate machines. Please let us know if the game doesnt present the images (There should be Kingdomino image right as soon as the game is launched)
