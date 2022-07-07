@@ -5,4 +5,10 @@ We build the game from scratch, focusing on documentation and planning on iterat
 object oriented programming in Java. 
 Screenshots and video demo are avalible in the 4th iteration. The test cases written in JUnit is also avalible in the 4th Iteration.
 
+## Technologies used through out the 4 months project:
+
+- Java (duh)
+- JUnit
+- Jira (For tracking project bugs and improvements)
+- Github (duh again)
 
